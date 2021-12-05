@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mostafakasem
 - 👀 I’m interested in Frontend
-- 🌱 I’m currently learning React/Flutte
+- 🌱 I’m currently learning React/Flutter
 - 📫 How to reach me mostafakasem87@gmail.com
 
 <!---
